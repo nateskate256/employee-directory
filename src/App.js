@@ -32,7 +32,7 @@ class App extends React.Component {
       <div>
         <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">
-            Email address
+            Enter a name!
           </label>
           <input
             name="searchText"
